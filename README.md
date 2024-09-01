@@ -1,5 +1,4 @@
 # Stock Market Dashboard
-========================
 
 ## Overview
 
