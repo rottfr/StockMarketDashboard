@@ -51,7 +51,7 @@ To run this application, you'll need Python (Created with 3.12.5)
 3.  run: `pip install -r requirements.txt` in your shell
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-git clone https://github.com/antonio-catalano/StockAnalysisApp.git
+git clone https://github.com/rottfr/StockMarketDashboard.git
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
  
